@@ -1,5 +1,4 @@
-# GPU Hash Map Library
-**GPU Course Project - Team 35**
+# Efficient GPU Hashing with Preallocated Open Addressing and Kernel Level Tuning
 
 A high-performance, warp-cooperative hash map implementation for CUDA GPUs. This library provides a generic key-value data structure designed for GPU applications, featuring concurrent operations, bulk processing capabilities, and adaptive search strategies.
 
@@ -301,6 +300,3 @@ GPU-Team35-2025/
 
 MIT License - See LICENSE file for details.
 
-## Authors
-
-Team 35 - GPU Course Project 2025
